@@ -1,10 +1,13 @@
 {
   "name": "@pixeen/tailwindcss-slant-plugin",
-  "version": "0.0.1",
   "description": "A Tailwind CSS plugin that lets you create `slanted` elements easily.",
-  "main": "index.js",
-  "author": "Jeroen Gerits",
+  "version": "0.0.1",
   "license": "MIT",
+  "main": "index.js",
+  "author": {
+    "name": "Jeroen Gerits",
+    "email": "jeroen@gerits.email"
+  },
   "keywords": [
     "Tailwind CSS",
     "CSS",

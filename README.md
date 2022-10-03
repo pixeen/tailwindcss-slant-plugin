@@ -1,6 +1,8 @@
 # Tailwind CSS slant plugin
 
-> A Tailwind CSS plugin that lets you create `slanted` elements easily.
+A Tailwind CSS plugin that lets you create `slanted` elements easily.
+
+> This plugin is currently in development, do not use in production.
 
 ## What does `slant` mean?
 
@@ -20,9 +22,7 @@ npm install tailwindcss-slant-plugin
 And add the following to the plugin section in the `tailwind.config.js` file:
 
 ```js
-plugins: [
-    require('@pixeen/tailwindcss-slant-plugin'),
-]
+plugins: [require("@pixeen/tailwindcss-slant-plugin")];
 ```
 
 ## Usage examples
