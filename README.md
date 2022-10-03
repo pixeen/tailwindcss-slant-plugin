@@ -31,7 +31,7 @@ module.exports = {
 ## Usage examples
 
 The slant plugin allow you to create a slanted element easily without having to worry about applying a negative skew to
-the contents, or having a block child elements. You can customize the angle and axis of the slant.
+the contents. You can customize the angle and axis of the slant.
 
 ```html
 <div class="slant-x-12">
