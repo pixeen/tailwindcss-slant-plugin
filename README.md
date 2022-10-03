@@ -23,10 +23,8 @@ And add the following to the plugin section in the `tailwind.config.js` file:
 
 ```js
 module.exports = {
-    // --snip--
-  plugins: [
-    require("tailwindcss-slant-plugin")(),
-  ],
+  // --snip--
+  plugins: [require("tailwindcss-slant-plugin")()],
 };
 ```
 
