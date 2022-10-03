@@ -37,24 +37,18 @@ The slant plugin creates a slanted element without the need to apply a negative 
 slant-[axis]-[angle]
 ```
 
-Some examples:
+Valid class names:
 
-```html
-<div class="slant-x-12">
-  <div>Slant</div>
-</div>
-
-<div class="-slant-x-12">
-  <div>Negative Slant</div>
-</div>
-
-<div class="slant-x-[30deg]">
-  <div>Arbitrary Slant</div>
-</div>
-
-<div class="-slant-x-[30deg]">
-  <div>Negative Arbitrary Slant</div>
-</div>
+```
+slant-12
+slant-x-12
+slant-y-12
+slant-[10deg]
+slant-x-[10deg]
+-slant-12
+-slant-[10deg]
+-slant-y-[10deg]
+...etc
 ```
 
 ## Example
