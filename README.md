@@ -33,9 +33,9 @@ module.exports = {
 The slant plugin allow you to create a slanted element easily without having to worry about applying a negative skew to
 the contents. You can customize the angle and axis of the slant.
 
-The syntax is:
-
-> slant-[axis]-[angle]
+```
+slant-[axis]-[angle]
+```
 
 Some examples:
 
