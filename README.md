@@ -53,8 +53,6 @@ the contents. You can customize the angle and axis of the slant.
 
 ## Slanted Button Example
 
-![image](https://user-images.githubusercontent.com/808734/193591836-cfcf0247-ed65-419e-884a-38541732de84.png)
-
 ```html
 <button
   class="rounded bg-blue-500 py-2 px-4 font-bold text-blue-50 slant-x-[30deg]"
@@ -62,6 +60,8 @@ the contents. You can customize the angle and axis of the slant.
   <span class="block">Slanted Button</span>
 </button>
 ```
+
+![image](https://user-images.githubusercontent.com/808734/193591836-cfcf0247-ed65-419e-884a-38541732de84.png)
 
 ## Features
 
