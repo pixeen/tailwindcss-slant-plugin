@@ -28,3 +28,7 @@ the contents, or having a block child elements. You can customize the angle and 
   <div>Negative Arbitrary Slant</div>
 </div>
 ```
+
+## Important caveats
+
+A slanted element should have a block element as its child, otherwise the slant will not be applied.
