@@ -21,17 +21,15 @@ module.exports = {
 
 ## What does `slant` mean?
 
-A `slant` means that it a slight angle to it, as opposed to being perfectly horizontal or vertical. However, it differs
-from a `skew` in that the contents of the element have the same negative skew value applied.
+A slant is a slight angle, as opposed to being horizontal or vertical. However, it differs from a skew because the contents of the element have the same negative skew value applied.
 
-To illustrate the difference between skew and slant, here's a comparison of the two:
+The difference between skew and slant is demonstrated here:
 
 ![image](https://user-images.githubusercontent.com/808734/193603368-b5f1a367-eb9f-4aa3-a762-776e9c284b27.png)
 
-## Usage examples
+## Usage
 
-The slant plugin allow you to create a slanted element easily without having to worry about applying a negative skew to
-the contents. You can customize the angle and axis of the slant.
+The slant plugin creates a slanted element without the need to apply a negative skew to the contents. You can customize the angle and axis of the slant.
 
 ```
 slant-[axis]-[angle]
@@ -57,7 +55,7 @@ Some examples:
 </div>
 ```
 
-## Real world example
+## Example
 
 An example of a button that makes uses of the Tailwind CSS slant plugin:
 
