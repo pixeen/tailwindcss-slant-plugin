@@ -19,7 +19,7 @@ Install the plugin:
 npm install tailwindcss-slant-plugin
 ```
 
-And add the following to the plugin section in the `tailwind.config.js` file:
+Modify the `tailwind.config.js` file:
 
 ```js
 module.exports = {
