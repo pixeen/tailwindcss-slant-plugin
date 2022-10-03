@@ -62,8 +62,8 @@ Some examples:
 An example of a button that makes uses of the Tailwind CSS slant plugin:
 
 ```html
-<div class="bg-black py-2 px-4 font-bold text-white slant-x-[30deg]">
-  <div>Slanted Button</div>
+<div class="bg-black py-2 px-4 slant-x-[30deg]">
+  <div class="font-bold text-white">Slanted Button</div>
 </div>
 ```
 
