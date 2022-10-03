@@ -2,15 +2,6 @@
 
 > A Tailwind CSS plugin that lets you create `slanted` elements easily.
 
-## What does `slant` mean?
-
-A `slant` means that it a slight angle to it, as opposed to being perfectly horizontal or vertical. However, it differs
-from a `skew` in that the contents of the element have the same negative skew value applied.
-
-To illustrate the difference between skew and slant, here's a comparison of the two:
-
-![image](https://user-images.githubusercontent.com/808734/193603368-b5f1a367-eb9f-4aa3-a762-776e9c284b27.png)
-
 ## Getting Started
 
 Install the plugin:
@@ -27,6 +18,15 @@ module.exports = {
   plugins: [require("tailwindcss-slant-plugin")()],
 };
 ```
+
+## What does `slant` mean?
+
+A `slant` means that it a slight angle to it, as opposed to being perfectly horizontal or vertical. However, it differs
+from a `skew` in that the contents of the element have the same negative skew value applied.
+
+To illustrate the difference between skew and slant, here's a comparison of the two:
+
+![image](https://user-images.githubusercontent.com/808734/193603368-b5f1a367-eb9f-4aa3-a762-776e9c284b27.png)
 
 ## Usage examples
 
