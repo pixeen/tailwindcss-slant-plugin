@@ -7,7 +7,9 @@ A Tailwind CSS plugin that lets you create `slanted` elements easily.
 Install the plugin:
 
 ```bash
-npm install tailwindcss-slant-plugin
+npm install -D tailwindcss-slant-plugin
+# or
+yarn add -D tailwindcss-slant-plugin
 ```
 
 Modify the `tailwind.config.js` file:
