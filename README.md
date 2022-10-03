@@ -54,9 +54,7 @@ the contents. You can customize the angle and axis of the slant.
 ## Slanted Button Example
 
 ```html
-<button
-  class="rounded bg-blue-500 py-2 px-4 font-bold text-blue-50 slant-x-[30deg]"
->
+<button class="bg-black py-2 px-4 font-bold text-white slant-x-[30deg]">
   <span class="block">Slanted Button</span>
 </button>
 ```
