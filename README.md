@@ -73,6 +73,6 @@ An example of a button that makes uses of the Tailwind CSS slant plugin:
 - Supports arbitrary values
 - Supports x and y axis values or both at the same time
 
-## Important caveats
+## Caveats
 
-- A slanted element should have a block element as its child, otherwise the slant will not be applied and the element will simply be skewed.
+- A slanted element should have a block element as its child. Otherwise, the slant will not be applied, and the element will simply be skewed.
