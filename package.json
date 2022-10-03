@@ -1,5 +1,5 @@
 {
-  "name": "@pixeen/tailwindcss-slant-plugin",
+  "name": "tailwindcss-slant-plugin",
   "description": "A Tailwind CSS plugin that lets you create `slanted` elements easily.",
   "version": "0.0.1",
   "license": "MIT",
