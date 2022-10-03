@@ -12,6 +12,9 @@
     "type": "git",
     "url": "git+https://github.com/pixeen/tailwindcss-slant-plugin.git"
   },
+  "bugs": {
+    "url": "https://github.com/pixeen/tailwindcss-slant-plugin/issues"
+  },
   "keywords": [
     "Tailwind CSS",
     "CSS",
