@@ -5,7 +5,9 @@
 ## What does `slant` mean?
 
 A `slant` means that it a slight angle to it, as opposed to being perfectly horizontal or vertical. However, it differs
-from a `skew` in that the contents of the element have the same negative skew value applied.
+from a `skew` in that the contents of the element have the same negative skew value applied. To illustrate the difference between them:
+
+![Screenshot from 2022-10-03 13-28-16](https://user-images.githubusercontent.com/808734/193566289-12b3e010-8dbc-4318-bf3d-c79a7863e525.png)
 
 ## How does the `slant` plugin help?
 
