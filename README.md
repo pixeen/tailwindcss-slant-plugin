@@ -51,7 +51,9 @@ the contents. You can customize the angle and axis of the slant.
 </div>
 ```
 
-## Slanted Button Example
+## Real world example
+
+An example of a button that makes uses of the Tailwind CSS slant plugin:
 
 ```html
 <button class="bg-black py-2 px-4 font-bold text-white slant-x-[30deg]">
