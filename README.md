@@ -1,6 +1,6 @@
 # Tailwind CSS slant plugin
 
-> A Tailwind CSS plugin that lets you create `slanted` elements easily.
+A Tailwind CSS plugin that lets you create `slanted` elements easily.
 
 ## Getting Started
 
