@@ -9,7 +9,7 @@ from a `skew` in that the contents of the element have the same negative skew va
 
 ![Screenshot from 2022-10-03 13-28-16](https://user-images.githubusercontent.com/808734/193566289-12b3e010-8dbc-4318-bf3d-c79a7863e525.png)
 
-## Usage example:
+## Usage examples
 
 The slant plugin allow you to create a slanted element easily without having to worry about applying a negative skew to
 the contents, or having a block child elements. You can customize the angle and axis of the slant.
