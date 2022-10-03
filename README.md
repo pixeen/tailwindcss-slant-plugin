@@ -28,12 +28,6 @@ module.exports = {
 };
 ```
 
-## Features
-
-- Supports negative values
-- Supports arbitrary degree values
-- Supports separate x and y axis values
-
 ## Usage examples
 
 The slant plugin allow you to create a slanted element easily without having to worry about applying a negative skew to
@@ -56,6 +50,12 @@ the contents. You can customize the angle and axis of the slant.
   <div>Negative Arbitrary Slant</div>
 </div>
 ```
+
+## Features
+
+- Supports negative values
+- Supports arbitrary degree values
+- Supports separate x and y axis values
 
 ## Important caveats
 
