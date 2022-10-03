@@ -51,6 +51,16 @@ the contents. You can customize the angle and axis of the slant.
 </div>
 ```
 
+## Slanted Button Example
+
+```html
+<button
+  class="rounded bg-blue-500 py-2 px-4 font-bold text-blue-50 slant-x-[30deg]"
+>
+  <span class="block">Slanted Button</span>
+</button>
+```
+
 ## Features
 
 - Supports negative values
