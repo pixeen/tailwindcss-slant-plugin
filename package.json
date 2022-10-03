@@ -8,6 +8,10 @@
     "name": "Jeroen Gerits",
     "email": "jeroen@gerits.email"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pixeen/tailwindcss-slant-plugin.git"
+  },
   "keywords": [
     "Tailwind CSS",
     "CSS",
