@@ -21,7 +21,7 @@ And add the following to the plugin section in the `tailwind.config.js` file:
 
 ```js
 plugins: [
-    require('tailwindcss-slant-plugin'),
+    require('@pixeen/tailwindcss-slant-plugin'),
 ]
 ```
 
