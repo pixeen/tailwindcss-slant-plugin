@@ -22,7 +22,18 @@ npm install tailwindcss-slant-plugin
 And add the following to the plugin section in the `tailwind.config.js` file:
 
 ```js
-plugins: [require("tailwindcss-slant-plugin")];
+module.exports = {
+  theme: {
+    // --snip--
+  },
+  variants: {
+    // --snip--
+  },
+  plugins: [
+    // Initialize with default values
+    require("tailwindcss-slant-plugin")(),
+  ],
+};
 ```
 
 ## Usage examples
