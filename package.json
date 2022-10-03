@@ -34,6 +34,7 @@
     "*.{js,json,md}": "prettier --write"
   },
   "scripts": {
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "format": "prettier . --write"
   }
 }
