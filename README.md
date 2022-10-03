@@ -64,8 +64,8 @@ the contents. You can customize the angle and axis of the slant.
 ## Features
 
 - Supports negative values
-- Supports arbitrary degree values
-- Supports separate x and y axis values
+- Supports arbitrary values
+- Supports x and y axis values or both at the same time
 
 ## Important caveats
 
