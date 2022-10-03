@@ -59,7 +59,7 @@ the contents. You can customize the angle and axis of the slant.
 </button>
 ```
 
-![image](https://user-images.githubusercontent.com/808734/193591836-cfcf0247-ed65-419e-884a-38541732de84.png)
+![image](https://user-images.githubusercontent.com/808734/193592375-4e4ecd39-9ab9-4079-940e-3e440cf59185.png)
 
 ## Features
 
